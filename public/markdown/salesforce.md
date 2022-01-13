@@ -1,0 +1,7 @@
+# Heroku Platform
+
+[Heroku](https://devcenter.heroku.com/categories/heroku-architecture) is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
+
+I worked on the Web Services team, which manages the Heroku platform: [API](https://devcenter.heroku.com/articles/platform-api-reference), internal tooling, and [microservices marketplace](https://devcenter.heroku.com/categories/add-ons). Not to mention incidence response and handling technically complex customer issues. I developed [security features](https://devcenter.heroku.com/categories/security) like multi-factor authentication, session and certification management, VaaS (verification as a service), and automatic detection of platform abuse. I also helped optimize internal telemetry and resource management to improve reliability and scalability.
+
+I was one of the early engineers developing Salesforce Evergreen, a serverless environment powered by Kubernetes, which integrates Salesforce Lighning features with Heroku's scalable container runtimes. It is now known as ["Salesforce Functions"](https://www.salesforceben.com/salesforce-functions-new-heroku-like-technology-for-salesforce-developers/).
