@@ -5,7 +5,8 @@ import {
   GiVanillaFlower,
   GiCommercialAirplane
 } from "react-icons/gi";
-import { GoRepo, GoBrowser } from "react-icons/go";
+import { SiSalesforce, SiHeroku, SiVault } from "react-icons/si";
+import { GoRepo, GoBrowser, GoTerminal } from "react-icons/go";
 
 import { BearData } from "../types";
 
@@ -39,8 +40,39 @@ const bear: BearData[] = [
     ]
   },
   {
+    id: "professional",
+    title: "Professional",
+    icon: <GoTerminal />,
+    md: [
+      {
+        id: "waypoint",
+        title: "HashiCorp Waypoint",
+        file: "https://raw.githubusercontent.com/hashicorp/waypoint/main/README.md",
+        icon: <SiVault />,
+        excerpt: "Waypoint is an open source solution...",
+        link: "https://github.com/hashicorp/waypoint"
+      },
+      {
+        id: "heroku",
+        title: "Heroku Web Services",
+        file: "markdown/salesforce.md",
+        icon: <SiHeroku />,
+        excerpt: "Heroku is a platform as a service (PaaS)...",
+        link: "https://devcenter.heroku.com/articles/platform-api-reference"
+      },
+      {
+        id: "salesforce",
+        title: "Salesforce Evergreen",
+        file: "https://raw.githubusercontent.com/heroku-examples/evergreen-function-circleci/main/README.md",
+        icon: <SiSalesforce />,
+        excerpt: "Evergreen function is a new serverless environment...",
+        link: "https://developer.salesforce.com/blogs/2019/11/introducing-salesforce-evergreen"
+      }
+    ]
+  },
+  {
     id: "project",
-    title: "Projects",
+    title: "Personal",
     icon: <GoRepo />,
     md: [
       {
