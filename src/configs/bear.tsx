@@ -17,18 +17,18 @@ const bear: BearData[] = [
     icon: <FaPaw />,
     md: [
       {
-        id: "synopsis",
-        title: "Synopsis",
-        file: "markdown/synopsis.md",
-        icon: <GiBoombox />,
-        excerpt: "Now this is the story all about how my life..."
-      },
-      {
         id: "about-me",
         title: "About Me",
         file: "markdown/about-me.md",
         icon: <GiNinjaVelociraptor />,
         excerpt: "What I bring to the table: Interdisciplinary..."
+      },
+      {
+        id: "synopsis",
+        title: "Synopsis",
+        file: "markdown/synopsis.md",
+        icon: <GiBoombox />,
+        excerpt: "Now this is the story all about how my life..."
       },
       {
         id: "about-site",
