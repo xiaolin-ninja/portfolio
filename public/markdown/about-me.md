@@ -10,8 +10,9 @@
   - [Heroku API](https://www.heroku.com/)
   - [Salesforce Evergreen (now Functions)](https://developer.salesforce.com/blogs/2019/11/introducing-salesforce-evergreen)
 - **Entrepreneurial background** running a talent agency, short-term rental, and tutoring business
-- Fluent in Ruby, SQL, Chinese (Mandarin), Spanish, & English.
-  - Proficient in Go, Python, C++, JS, German, & Cantonese.
+- **Multilingual**
+  - Fluent in Chinese (Mandarin), Spanish, & English.
+  - Proficient in Go, Python, Ruby, SQL, C++, JS, German, & Cantonese.
 
 
 I work hard, learn fast, care about people, & always rise to the challenge.
@@ -27,11 +28,11 @@ I work hard, learn fast, care about people, & always rise to the challenge.
 ## What I look for in a company:
 
 - Clear vision and roadmap
-- Transparent management & stable growth
+- Transparent leadership & stable growth
 - Culture of authenticity and respect
 - 20+ days PTO & healthy work-life balance
-- Remote first
-- Diverse workforce. It’s 2021, folks!
+- Remote-friendly. I split time between Austria, NYC, and SF.
+- Diverse workforce. It’s 2022, folks!
 
 ## Contact
 
