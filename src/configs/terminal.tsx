@@ -1,4 +1,4 @@
-import { TerminalData } from "../types";
+import type { TerminalData } from "../types";
 
 const terminal: TerminalData[] = [
   {

@@ -8,7 +8,7 @@ import {
 import { SiSalesforce, SiHeroku, SiVault } from "react-icons/si";
 import { GoRepo, GoBrowser, GoTerminal } from "react-icons/go";
 
-import { BearData } from "../types";
+import type { BearData } from "../types";
 
 const bear: BearData[] = [
   {
