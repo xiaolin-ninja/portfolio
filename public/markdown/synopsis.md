@@ -4,4 +4,4 @@ Now this is the story all about how my life got flipped-turned upside down, and 
 
 In China born and San Francisco raised, around the world was where I spent most of my days. Chillin' out, learnin', explorin' all cool, and startin' some businesses after grad school.
 
-When a couple of folks who were up to no good, started talkin' Tech in my neighborhood. I got in one little fight and my mom got scared, she said, "Why don't you teach yourself how to write software?"
+When a couple of folks who were up to no good, started talkin' Tech in my neighborhood. I got in one little slump and my mom got scared, she said, "Why don't you teach yourself how to write software?"
